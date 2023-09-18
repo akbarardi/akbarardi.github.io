@@ -1,0 +1,80 @@
+.nav-link {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+nav {
+    background-color: #262533;
+}
+
+.nav-link:hover {
+    color: #87BFFF;
+}
+
+li a{
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 25px 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: #e5e5e5;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition:.25s;
+}
+
+h1 {
+    padding-top: 95px;
+    font-size: 47px;
+}
+
+.card{
+    /* background-color: #ededed; */
+    border: none;
+}
+
+h5 {
+    padding-top: 35px;
+}
+
+.about {
+    background-color: #F9CC41;
+    margin-top: 110px;
+}
+
+.projects {
+    background-color: #262533;
+      /* --bs-btn-font-weight: 600; */
+      /* padding-left: 50px;
+      padding-right: 50px; */
+}
+
+.contact {
+    background-color: #F9CC41;
+}
+
+.footer {
+    background-color: #262533;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.homi {
+    position: relative;
+}
+
+.particles {
+    background-color: #262533;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+}
